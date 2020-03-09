@@ -31,6 +31,7 @@ public class SocioModelo extends Conector {
 
 				return socio;
 			}
+			
 
 		} catch (SQLException e) {
 			e.printStackTrace();
