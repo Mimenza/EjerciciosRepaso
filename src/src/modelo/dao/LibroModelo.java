@@ -89,6 +89,7 @@ public class LibroModelo extends Conector {
 			libro.setPrestamos(modeloPrestamo.prestamosDeLibro(libro.getId()));
 		}
 		
+		
 		return libros;
 	}
 
